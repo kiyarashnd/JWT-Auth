@@ -1,0 +1,6 @@
+20231202	13:03:09	c8e3bbf9-a2fb-4631-b2c5-b5251209c28c	Error: ENOENT: no such file or directory, stat 'C:\Users\Kiyarash\Desktop\Back-end\views\subdir\test.html'
+20231202	13:15:00	8279bcb9-8f2c-43a4-ad03-f80b6ec65f70	Error: ENOENT: no such file or directory, stat 'C:\Users\Kiyarash\Desktop\Back-end\routes\views\new-page.html'
+20231227	20:18:08	435877f1-e18a-4168-963e-345e23595c2c	Error: Not allowed by CORS
+20231227	20:19:20	b346115e-81e4-430b-9f65-f4a267a265df	Error: Not allowed by CORS
+20241104	14:49:39	06bf8e03-55a4-4c79-b56b-4b65031a4d73	TypeError: Cannot read properties of undefined (reading 'username')
+20241104	14:49:53	a9790109-be16-4e90-9940-3541aaad51c9	TypeError: Cannot read properties of undefined (reading 'username')
